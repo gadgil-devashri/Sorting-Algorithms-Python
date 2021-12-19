@@ -1,3 +1,14 @@
+# Sorting Algorithms
+
+This repository contains python code for comparision based sorting techniques such as 
+* Insertion Sort
+* Merge Sort
+* Heap Sort 
+* In-Place Quick Sort
+* Modified Quick Sort 
+SortMain class is the main entry point and calls all of the above mentioned sorting algorithms in order to analyze their performance.
+
+
 Following are the instructions to run python implementation of comparison-based sorting algorithms.
 * Unzip the source code package
 * Install Python3 and python package installer which is pip
