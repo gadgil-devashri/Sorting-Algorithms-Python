@@ -5,8 +5,10 @@ This repository contains python code for comparision based sorting techniques su
 * Merge Sort
 * Heap Sort 
 * In-Place Quick Sort
-* Modified Quick Sort 
-  SortMain class is the main entry point and calls all of the above mentioned sorting algorithms in order to analyze their performance.
+* Modified Quick Sort
+
+
+SortMain class is the main entry point and calls all of the above mentioned sorting algorithms in order to analyze their performance.
 
 
 Following are the instructions to run python implementation of comparison-based sorting algorithms.
